@@ -7,7 +7,6 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 
 <br>
 
-![]([212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif](https://github.com/NikitaMarinovich/NikitaMarinovich/blob/main/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif))
 
 <div><br></div>
   <div id="badges">
