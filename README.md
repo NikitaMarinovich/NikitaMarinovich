@@ -1,19 +1,22 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
+
 ### Hey!
 
 I'm **Nikita** , and i just have completed my training as a manual QA engineer! Here I want to share some web and mobile testing portfolio items gained during some of my studies.
 
-### 🤝 Social network
+<br>
 
 
+<div><br></div>
   <div id="badges">
+  <span><h3>🤝 Social network</h3>
     <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
     </a>
     <a href="https://t.me/youbeundermywheels" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram" />
+    </a></span>
   </div>
 
 <h2>Some Tools I Use</h2>
