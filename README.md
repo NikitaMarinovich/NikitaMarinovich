@@ -5,6 +5,8 @@
 
 I'm **Nikita** , and i just have completed my training as a manual QA engineer! Here I want to share some web and mobile testing portfolio items gained during some of my studies.
 
+![212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852](https://github.com/NikitaMarinovich/NikitaMarinovich/assets/133016326/09b0ee8f-ee1a-4a8b-b924-1f6326c3ecce)
+
 <br>
 
 
