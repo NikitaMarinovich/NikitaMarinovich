@@ -6,7 +6,8 @@
 I'm **Nikita** , and i just have completed my training as a manual QA engineer! Here I want to share some web and mobile testing portfolio items gained during some of my studies.
 
 <br>
-![](https://github.com/NikitaMarinovich/NikitaMarinovich/blob/main/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)
+
+![]([212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif](https://github.com/NikitaMarinovich/NikitaMarinovich/blob/main/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif))
 
 <div><br></div>
   <div id="badges">
