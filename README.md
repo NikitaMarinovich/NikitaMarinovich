@@ -1,9 +1,7 @@
 # Hi,👋 my name is Nikita!
 
----
 I have completed my training as a manual QA engineer, and am now looking for a job!Here I want to share some web and mobile testing portfolio items gained during some of my studies.
 
----
 ### 🤝 Social network:
 
   <div id="badges">
@@ -15,7 +13,6 @@ I have completed my training as a manual QA engineer, and am now looking for a j
     </a>
   </div>
 
----
 <h2>Some Tools I Use</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
@@ -39,7 +36,7 @@ I have completed my training as a manual QA engineer, and am now looking for a j
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
----
+
 
 ### 📁 Test Artifacts:
 
@@ -47,5 +44,3 @@ I have completed my training as a manual QA engineer, and am now looking for a j
 
 ---
 
-
----
