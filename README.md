@@ -17,7 +17,7 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
     <a href="https://t.me/youbeundermywheels" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram" />
     </a></span>
-    <a href= "mailto:nikita.marinovich@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="30" height="30" alt="gmail"/></a>
+    <a href= "mailto:qa.marinovich@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="30" height="30" alt="gmail"/></a>
 </p>
 
   </div>
