@@ -1,10 +1,9 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
-
+<img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2MDI5NjcsIm5iZiI6MTcwMzYwMjY2NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDE0NTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ODcxMGZkMjAyMTg0OWQwOTM0M2MxNTA3NTYyZTBmODNmOWFjNzU1NjY1MjQxZjkxM2FiYThiMzZhNTA2NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FuvWMY0goe_EBLzBssPcjxksK1Ff18eNntVcCYlGyk8" title="logo" alt="logo" width="500" height="300"/>
 
 ### Hey!
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-I'm **Nikita** , and i just have completed my training as a manual QA engineer! Here I want to share some web and mobile testing portfolio items gained during some of my studies.
-
+I'm **Nikita** , and i just have completed my training as a manual QA engineer! Proficient with Postman, SQL, DevTools, Jira, Azure. Here I want to share some web and mobile testing portfolio items gained during some of my studies.
 
 <br>
 
@@ -22,6 +21,8 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 </p>
 
   </div>
+
+<h3><a href="https://docs.google.com/document/d/1TnBNPAABRGAVDL_dAkCDK_V79L_rFsjI/edit?usp=sharing&ouid=116249143505310508931&rtpof=true&sd=true" target="_blank">Моё резюме</a></h3>
 
 <h2>Some Tools I Use</h2>
 <p align="center">
@@ -57,3 +58,13 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | • [WebShop testing](https://github.com/NikitaMarinovich/WebShop) - I tested the online store and prepared a number of test documentation<br>• [Testing Documentation](https://github.com/NikitaMarinovich/TestingDocumentation) -Test documentation for Guru99<br>• [Postman](https://github.com/NikitaMarinovich/API_testing) - REST and SOAP API testing via Postman<br>• [SQL](https://github.com/NikitaMarinovich/SQL) - Here are MySQL queries that I used to explore <a href="https://drive.google.com/drive/u/3/folders/1MC0AttnmlAmugifFlX3hG6pssYZDqpPB "> Hogwarts Database</a><br>• [Android testing](https://github.com/NikitaMarinovich/Android-testing) - Mobile application Testing<br>• [Charles Proxy](https://github.com/NikitaMarinovich/Charlesproxy) - Replacing data with CharlesProxy<br>• [bash](https://github.com/NikitaMarinovich/bash) - some bash commands that I used to do tasks during my Quality Assurance studies.<br>• [GIT](https://github.com/NikitaMarinovich/Git) - some of the git commands that I used to create a portfolio
 <br>
+
+<hr>
+
+ ### 💻 Finished Courses:
+
+| Courses                                                          | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| [artsiomrusau.com](https://artsiomrusau.com/)/ "Functional Software Testing "              | 10/2023 - 12/2023 |
+
+<hr>
