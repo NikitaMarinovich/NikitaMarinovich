@@ -10,7 +10,7 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 
 <div><br></div>
   <div id="badges">
-  <span><h3>🤝 Social network</h3>
+ <div><br></div> <span><h3>🤝 Social network</h3>
     <a href="https://www.linkedin.com/in/nikitamarinovichh/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
     </a>
