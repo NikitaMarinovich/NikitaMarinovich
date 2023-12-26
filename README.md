@@ -22,7 +22,7 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 
   </div>
 
-<h3><a href="https://docs.google.com/document/d/1TnBNPAABRGAVDL_dAkCDK_V79L_rFsjI/edit?usp=sharing&ouid=116249143505310508931&rtpof=true&sd=true" target="_blank">Моё резюме</a></h3>
+<h3><a href="https://docs.google.com/document/d/1TnBNPAABRGAVDL_dAkCDK_V79L_rFsjI/edit?usp=sharing&ouid=116249143505310508931&rtpof=true&sd=true" target="_blank">My CV </a></h3>
 
 <h2>Some Tools I Use</h2>
 <p align="center">
