@@ -68,3 +68,6 @@ I'm **Nikita** , and i just have completed my training as a manual QA engineer! 
 | [artsiomrusau.com](https://artsiomrusau.com/)/ "Functional Software Testing "              | 10/2023 - 12/2023 |
 
 <hr>
+
+
+### 📜Certificate: [Certificate of completion of the course "Functional software testing" by Artsiom Rusau](https://drive.google.com/file/d/18XnRfCbn25Cc_FOoddKMHpaBk5HRFhXP/view?usp=sharing)
