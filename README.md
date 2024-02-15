@@ -3,7 +3,7 @@
 ### Hey!
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-I'm **Nikita** , and i just have completed my training as a manual QA engineer! Proficient with Postman, SQL, DevTools, Jira, Azure. Here I want to share some web and mobile testing portfolio items gained during some of my studies.
+I'm **Nikita** , I'm looking for a job as a Software Tester. Proficient with Postman, SQL, DevTools, Jira, Azure. I will be useful thanks to my critical thinking, attention to detail, hard work, and experience of work in the such interesting and difficult area as radiation chemistry and agriculture chemistry. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships 
 
 <br>
 
