@@ -3,7 +3,8 @@
 ### Hey!
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-I'm **Nikita** , I'm looking for a job as a Software Tester. Proficient with Postman, SQL, DevTools, Jira, Azure. I will be useful thanks to my critical thinking, attention to detail, hard work, and experience of work in the such interesting and difficult area as radiation chemistry and agriculture chemistry. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships 
+I'm **Nikita** , I'm a QA Engineer specializing in testing fintech and blockchain solutions, with extensive experience in web and mobile ecosystems for the crypto community. I am proficient in API testing (REST/SOAP), GUI testing, and various testing methodologies, including regression, functional, and load testing. I'm committed to continuous professional development and implementing new knowledge to ensure top-notch product quality.
+
 
 <br>
 
